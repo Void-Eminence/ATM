@@ -1,0 +1,314 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-10-11 11:06:36 -0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2024-10-11 11:06:36 -0300"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2024-10-11 11:06:35 -0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2024-10-11 11:06:36 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_crafting": {
+    "criteria": {
+      "has_wct": "2024-10-11 11:06:35 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-10-11 11:08:43 -0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2024-10-11 11:06:36 -0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2024-10-11 11:06:35 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_pattern_encoding_terminal": {
+    "criteria": {
+      "has_wt": "2024-10-11 11:06:36 -0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2024-10-11 11:06:36 -0300"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2024-10-11 11:06:35 -0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2024-10-11 11:06:36 -0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2024-10-11 11:06:35 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_encoding": {
+    "criteria": {
+      "has_wpt": "2024-10-11 11:06:36 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-10-11 11:06:37 -0300"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/crafting_table": {
+    "criteria": {
+      "has_the_recipe": "2024-10-11 11:06:36 -0300"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/decorations/deorum_lantern": {
+    "criteria": {
+      "has_torch": "2024-10-11 11:06:35 -0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2024-10-11 11:06:35 -0300"
+    },
+    "done": true
+  },
+  "translocators:recipes/redstone/item_translocator": {
+    "criteria": {
+      "has_piston": "2024-10-11 11:06:35 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-10-11 11:06:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-10-11 11:06:37 -0300"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2024-10-11 11:06:35 -0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2024-10-11 11:06:35 -0300"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-10-11 11:06:36 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_access": {
+    "criteria": {
+      "has_wit": "2024-10-11 11:06:35 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_pattern_access_terminal": {
+    "criteria": {
+      "has_wt": "2024-10-11 11:06:35 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bridge_torch": {
+    "criteria": {
+      "has_planks": "2024-10-11 11:06:35 -0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2024-10-11 11:06:35 -0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2024-10-11 11:06:36 -0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2024-10-11 11:06:36 -0300"
+    },
+    "done": true
+  },
+  "translocators:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_nugget": "2024-10-11 11:06:35 -0300"
+    },
+    "done": true
+  },
+  "translocators:recipes/misc/diamond_nugget": {
+    "criteria": {
+      "has_diamond": "2024-10-11 11:06:36 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/magnet_card": {
+    "criteria": {
+      "has_wct": "2024-10-11 11:06:35 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-10-11 11:08:44 -0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2024-10-11 11:06:36 -0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2024-10-11 11:06:35 -0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2024-10-11 11:06:36 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/ce": {
+    "criteria": {
+      "has_wpt": "2024-10-11 11:06:36 -0300",
+      "has_wct": "2024-10-11 11:06:36 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/ca": {
+    "criteria": {
+      "has_wit": "2024-10-11 11:06:36 -0300",
+      "has_wct": "2024-10-11 11:06:35 -0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2024-10-11 11:06:36 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/ae": {
+    "criteria": {
+      "has_wit": "2024-10-11 11:06:35 -0300",
+      "has_wpt": "2024-10-11 11:06:36 -0300"
+    },
+    "done": true
+  },
+  "exdeorum:core/root": {
+    "criteria": {
+      "in_void_world": "2024-10-11 11:06:35 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/quantum_bridge_card": {
+    "criteria": {
+      "has_wit": "2024-10-11 11:06:36 -0300",
+      "has_wpt": "2024-10-11 11:06:35 -0300",
+      "has_wct": "2024-10-11 11:06:35 -0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2024-10-11 11:06:36 -0300"
+    },
+    "done": true
+  },
+  "translocators:recipes/redstone/fluid_translocator": {
+    "criteria": {
+      "has_piston": "2024-10-11 11:06:35 -0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2024-10-11 11:06:36 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2024-10-11 11:06:36 -0300"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-10-11 11:06:36 -0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-10-11 11:06:35 -0300"
+    },
+    "done": true
+  },
+  "energymeter:recipes/energymeter/meter": {
+    "criteria": {
+      "has_item": "2024-10-11 11:06:36 -0300"
+    },
+    "done": true
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2024-10-11 11:06:36 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
