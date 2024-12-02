@@ -16459,5 +16459,11 @@
     },
     "done": true
   },
+  "extrastorage:recipes/misc/raw_neural_processor": {
+    "criteria": {
+      "has_raw_advanced_processor": "2024-12-02 18:34:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

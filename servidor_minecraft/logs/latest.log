@@ -1948,3 +1948,6 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [02Dec2024 18:22:01.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VoidNoir1 joined the game
 [02Dec2024 18:22:01.501] [Server thread/INFO] [Jade/]: Syncing config to VoidNoir1 (6edb587a-53e4-41b3-b489-ab3cb8c06fe4)
 [02Dec2024 18:22:03.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[02Dec2024 18:41:39.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VoidNoir1 has made the advancement [Drives]
+[02Dec2024 18:42:22.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VoidNoir1 has made the advancement [Refined Storage]
+[02Dec2024 18:42:29.453] [Server thread/WARN] [mixin/]: @Final field items:Ljava/util/Map; in creativewirelesstransmitter.mixins.json:MixinNetworkItemManager should be final
