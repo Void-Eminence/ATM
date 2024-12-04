@@ -16459,15 +16459,21 @@
     },
     "done": true
   },
-  "refinedstorage:recipes/misc/coloring_recipes/blue_network_receiver": {
+  "extrastorage:recipes/misc/raw_neural_processor": {
     "criteria": {
-      "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
+      "has_raw_advanced_processor": "2024-12-02 18:34:05 +0000"
     },
     "done": true
   },
-  "refinedstorage:viewing_fluids": {
+  "refinedstorage:drives": {
     "criteria": {
-      "fluid_grid_in_inventory": "2024-12-02 18:46:14 +0000"
+      "disk_drive_in_inventory": "2024-12-02 18:41:39 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring_recipes/blue_network_receiver": {
+    "criteria": {
+      "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
     },
     "done": true
   },
@@ -16507,21 +16513,9 @@
     },
     "done": true
   },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_light": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/light_gray_disk_manipulator": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/pattern_grid/blue_pattern_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
     },
     "done": true
   },
@@ -16561,45 +16555,9 @@
     },
     "done": true
   },
-  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_blue": {
-    "criteria": {
-      "has_ingots/aluminum": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/lime_crafter": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/plate_lead_hammering": {
-    "criteria": {
-      "has_lead_ingot": "2024-12-02 18:55:28 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/fluid_grid/purple_fluid_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/zinc_block": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2024-12-02 18:55:11 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_green": {
-    "criteria": {
-      "has_ingots/aluminum": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/aluminum_rod": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2024-12-02 18:55:12 +0000"
     },
     "done": true
   },
@@ -16612,12 +16570,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/gray_relay": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/capacitor_lv": {
-    "criteria": {
-      "has_lead_ingot": "2024-12-02 18:55:28 +0000"
     },
     "done": true
   },
@@ -16645,57 +16597,15 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/silver_nugget_from_ingot": {
-    "criteria": {
-      "has_item": "2024-12-02 18:54:56 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/lime_detector": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
     },
     "done": true
   },
-  "refinedstorage:recipes/misc/crafting_grid/magenta_crafting_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
-  "xycraft_machines:recipes/misc/shaped/machine_base": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/fluid_grid/red_fluid_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/misc/unpacking/aluminum_nugget": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/pattern_grid/orange_pattern_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/cyan_detector": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/stick_aluminum": {
-    "criteria": {
-      "has_alu_ingot": "2024-12-02 18:55:12 +0000"
     },
     "done": true
   },
@@ -16711,27 +16621,9 @@
     },
     "done": true
   },
-  "xycraft_world:recipes/building_blocks/shaped/aluminum_tiles": {
-    "criteria": {
-      "has_aluminum": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/fluid_grid/fluid_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/blue_crafting_monitor": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/fluid_grid/green_fluid_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
     },
     "done": true
   },
@@ -16744,18 +16636,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/orange_relay": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/uranium_nugget_from_ingot": {
-    "criteria": {
-      "has_item": "2024-12-02 18:54:57 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/crafting_grid/brown_crafting_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
     },
     "done": true
   },
@@ -16807,12 +16687,6 @@
     },
     "done": true
   },
-  "occultism:recipes/building_blocks/crafting/silver_block": {
-    "criteria": {
-      "has_silver_ingot": "2024-12-02 18:54:56 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/brown_pattern_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
@@ -16837,33 +16711,9 @@
     },
     "done": true
   },
-  "refinedstorage:drives": {
-    "criteria": {
-      "disk_drive_in_inventory": "2024-12-02 18:41:39 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/black_controller": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/zinc_rod": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2024-12-02 18:55:11 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_dark_r": {
-    "criteria": {
-      "has_ingots/aluminum": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/crafting_grid/purple_crafting_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
     },
     "done": true
   },
@@ -16879,12 +16729,6 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/uranium_block": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2024-12-02 18:54:57 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/magenta_network_receiver": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
@@ -16894,12 +16738,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/orange_detector": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_red": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
     },
     "done": true
   },
@@ -16915,45 +16753,9 @@
     },
     "done": true
   },
-  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_immortal_r": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/lead_nugget_from_ingot": {
-    "criteria": {
-      "has_item": "2024-12-02 18:55:28 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/light_gray_pattern_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/pattern_grid/lime_pattern_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/fluid_grid/light_gray_fluid_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks": {
-    "criteria": {
-      "has_aluminum": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/crafting_grid/pink_crafting_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
     },
     "done": true
   },
@@ -16972,12 +16774,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/white_pattern_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/alu_wallmount": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
     },
     "done": true
   },
@@ -17023,27 +16819,9 @@
     },
     "done": true
   },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_dark": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/yellow_crafter": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wire_lead": {
-    "criteria": {
-      "has_lead_ingot": "2024-12-02 18:55:28 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/pattern_grid/gray_pattern_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
     },
     "done": true
   },
@@ -17053,27 +16831,9 @@
     },
     "done": true
   },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_light": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/silver_plate": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2024-12-02 18:54:56 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/green_relay": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/crafting_grid/crafting_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
     },
     "done": true
   },
@@ -17095,51 +16855,15 @@
     },
     "done": true
   },
-  "refinedstorage:recipes/misc/pattern_grid/black_pattern_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/green_detector": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
     },
     "done": true
   },
-  "refinedstorage:recipes/misc/pattern_grid/light_gray_pattern_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_light": {
-    "criteria": {
-      "has_ingots/aluminum": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/crafting_grid/white_crafting_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
-    "criteria": {
-      "has_item": "2024-12-02 18:55:11 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/gray_pattern_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_light_r": {
-    "criteria": {
-      "has_ingots/aluminum": "2024-12-02 18:55:12 +0000"
     },
     "done": true
   },
@@ -17152,12 +16876,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/pink_relay": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_blue": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
     },
     "done": true
   },
@@ -17203,21 +16921,9 @@
     },
     "done": true
   },
-  "occultism:recipes/misc/crafting/magic_lamp_empty": {
-    "criteria": {
-      "has_silver_ingot": "2024-12-02 18:54:56 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/blue_crafter": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/crafting_grid/green_crafting_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
     },
     "done": true
   },
@@ -17236,12 +16942,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/pink_fluid_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wire_aluminum": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
     },
     "done": true
   },
@@ -17275,18 +16975,6 @@
     },
     "done": true
   },
-  "refinedstorage:recipes/misc/fluid_grid/blue_fluid_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/zinc_nugget_from_ingot": {
-    "criteria": {
-      "has_item": "2024-12-02 18:55:11 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/yellow_crafter_manager": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
@@ -17296,24 +16984,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/black_crafter_manager": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_green": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/zinc_plate": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2024-12-02 18:55:11 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/silver_dust_from_ingot": {
-    "criteria": {
-      "has_silver_ingot": "2024-12-02 18:54:56 +0000"
     },
     "done": true
   },
@@ -17341,21 +17011,9 @@
     },
     "done": true
   },
-  "occultism:recipes/misc/crafting/silver_nugget": {
-    "criteria": {
-      "has_silver_ingot": "2024-12-02 18:54:56 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/yellow_relay": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/fluid_grid/orange_fluid_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
     },
     "done": true
   },
@@ -17365,27 +17023,9 @@
     },
     "done": true
   },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_blue": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/cyan_fluid_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/crafting_grid/orange_crafting_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/crafting_grid/gray_crafting_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
     },
     "done": true
   },
@@ -17437,12 +17077,6 @@
     },
     "done": true
   },
-  "xycraft_world:recipes/building_blocks/shaped/lamp_rgb": {
-    "criteria": {
-      "has_aluminum": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/yellow_wireless_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
@@ -17461,18 +17095,6 @@
     },
     "done": true
   },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_green": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/crafting_grid/yellow_crafting_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/red_crafting_monitor": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
@@ -17482,18 +17104,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/brown_controller": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_green": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/silver_rod": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2024-12-02 18:54:56 +0000"
     },
     "done": true
   },
@@ -17509,45 +17119,15 @@
     },
     "done": true
   },
-  "refinedstorage:recipes/misc/fluid_grid/yellow_fluid_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/fluid_grid/black_fluid_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/gray_crafter_manager": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
     },
     "done": true
   },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_red": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/black_network_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/zinc_dust_from_ingot": {
-    "criteria": {
-      "has_zinc_ingot": "2024-12-02 18:55:11 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/plate_uranium_hammering": {
-    "criteria": {
-      "has_uranium_ingot": "2024-12-02 18:54:57 +0000"
     },
     "done": true
   },
@@ -17581,12 +17161,6 @@
     },
     "done": true
   },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_dark": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/green_network_receiver": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
@@ -17602,12 +17176,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/gray_crafter": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/fluid_grid/cyan_fluid_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
     },
     "done": true
   },
@@ -17635,24 +17203,6 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/lead_rod": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2024-12-02 18:55:28 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/aluminum_torch": {
-    "criteria": {
-      "has_aluminum": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/alu_scaffolding_standard": {
-    "criteria": {
-      "has_alu_ingot": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/cyan_crafting_monitor": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
@@ -17668,24 +17218,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/crafter": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/pattern_grid/cyan_pattern_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
-  "projecte:root": {
-    "criteria": {
-      "philstone_recipe": "2024-12-02 18:44:26 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_red": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
     },
     "done": true
   },
@@ -17725,12 +17257,6 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/uranium_rod": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2024-12-02 18:54:56 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/lime_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
@@ -17743,27 +17269,9 @@
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/aluminum_dust_from_ingot": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/purple_crafter_manager": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/pattern_grid/pattern_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_dark": {
-    "criteria": {
-      "has_ingots/aluminum": "2024-12-02 18:55:12 +0000"
     },
     "done": true
   },
@@ -17791,12 +17299,6 @@
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/uranium_dust_from_ingot": {
-    "criteria": {
-      "has_uranium_ingot": "2024-12-02 18:54:57 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/brown_crafting_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
@@ -17812,18 +17314,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/red_crafter": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:viewing_items": {
-    "criteria": {
-      "grid_in_inventory": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/uranium_gear": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2024-12-02 18:54:57 +0000"
     },
     "done": true
   },
@@ -17851,12 +17341,6 @@
     },
     "done": true
   },
-  "refinedstorage:recipes/misc/fluid_grid/magenta_fluid_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/orange_crafter_manager": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
@@ -17875,12 +17359,6 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/plate_aluminum_hammering": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/purple_crafting_monitor": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
@@ -17890,12 +17368,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/red_disk_manipulator": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/silver_gear": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2024-12-02 18:54:56 +0000"
     },
     "done": true
   },
@@ -17923,21 +17395,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
-    "criteria": {
-      "has_ingots_zinc": "2024-12-02 18:55:11 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/network_receiver": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/aluminum_block": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2024-12-02 18:55:12 +0000"
     },
     "done": true
   },
@@ -17950,24 +17410,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/magenta_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/decorations/shaped/lamp_rgb_r": {
-    "criteria": {
-      "has_aluminum": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_light": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_light": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
     },
     "done": true
   },
@@ -18016,24 +17458,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/red_crafting_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:upgrading_your_grid": {
-    "criteria": {
-      "crafting_grid_in_inventory": "2024-12-02 18:45:00 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/fluid_grid/lime_fluid_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_immortal": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
     },
     "done": true
   },
@@ -18097,24 +17521,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
-    "criteria": {
-      "has_ingots_zinc": "2024-12-02 18:55:11 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/crafting_grid/light_gray_crafting_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
-    "criteria": {
-      "has_item": "2024-12-02 18:55:11 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/cyan_crafting_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
@@ -18127,63 +17533,15 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/alu_fence": {
-    "criteria": {
-      "has_alu_ingot": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/lead_gear": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2024-12-02 18:55:28 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/plate_silver_hammering": {
-    "criteria": {
-      "has_silver_ingot": "2024-12-02 18:54:56 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/relay": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
     },
     "done": true
   },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_blue": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:portable_storage": {
-    "criteria": {
-      "portable_grid_in_inventory": "2024-12-02 18:48:01 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wirecoil_redstone": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/pattern_grid/pink_pattern_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/purple_pattern_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/pattern_grid/purple_pattern_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
     },
     "done": true
   },
@@ -18199,33 +17557,15 @@
     },
     "done": true
   },
-  "refinedstorage:recipes/misc/pattern_grid/yellow_pattern_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/light_gray_wireless_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
     },
     "done": true
   },
-  "refinedstorage:recipes/misc/fluid_grid/brown_fluid_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/black_crafter": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/lead_dust_from_ingot": {
-    "criteria": {
-      "has_lead_ingot": "2024-12-02 18:55:28 +0000"
     },
     "done": true
   },
@@ -18247,24 +17587,6 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/lead_block": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2024-12-02 18:55:28 +0000"
-    },
-    "done": true
-  },
-  "xycraft_machines:recipes/misc/shaped/extractor": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
-  "extrastorage:recipes/misc/raw_neural_processor": {
-    "criteria": {
-      "has_raw_advanced_processor": "2024-12-02 18:34:05 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/brown_crafter": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
@@ -18283,33 +17605,9 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/lead_plate": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2024-12-02 18:55:28 +0000"
-    },
-    "done": true
-  },
-  "xycraft_machines:recipes/misc/shaped/machine_base_flipped": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/misc/compacting/aluminum_ingot": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/cyan_security_manager": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/fluid_grid/pink_fluid_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
     },
     "done": true
   },
@@ -18325,27 +17623,9 @@
     },
     "done": true
   },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_dark": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/gray_fluid_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/crafting_grid/cyan_crafting_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/uranium_plate": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2024-12-02 18:54:56 +0000"
     },
     "done": true
   },
@@ -18373,12 +17653,6 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/zinc_gear": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2024-12-02 18:55:11 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/orange_crafter": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
@@ -18391,21 +17665,9 @@
     },
     "done": true
   },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_red": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/cyan_wireless_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/crafting_grid/red_crafting_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
     },
     "done": true
   },
@@ -18421,45 +17683,15 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/aluminum_plate": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/pattern_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
     },
     "done": true
   },
-  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_red": {
-    "criteria": {
-      "has_ingots/aluminum": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/pattern_grid/magenta_pattern_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/magenta_crafting_monitor": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/fluid_grid/gray_fluid_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/crafting/lens_frame": {
-    "criteria": {
-      "has_silver_ingot": "2024-12-02 18:54:56 +0000"
     },
     "done": true
   },
@@ -18499,12 +17731,6 @@
     },
     "done": true
   },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_dark": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/black_detector": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
@@ -18523,27 +17749,9 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/aluminum_nugget_from_ingot": {
-    "criteria": {
-      "has_item": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/pattern_grid/white_pattern_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/pink_network_receiver": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/crafting_grid/lime_crafting_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
     },
     "done": true
   },
@@ -18553,39 +17761,15 @@
     },
     "done": true
   },
-  "refinedstorage:connecting": {
-    "criteria": {
-      "cable_in_inventory": "2024-12-02 18:48:07 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/crafting_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
     },
     "done": true
   },
-  "refinedstorage:recipes/misc/fluid_grid/white_fluid_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/crafter_manager": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/aluminum_gear": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/silver_block": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2024-12-02 18:54:56 +0000"
     },
     "done": true
   },
@@ -18613,12 +17797,6 @@
     },
     "done": true
   },
-  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_red_r": {
-    "criteria": {
-      "has_ingots/aluminum": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/gray_detector": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
@@ -18637,51 +17815,15 @@
     },
     "done": true
   },
-  "xycraft_world:recipes/building_blocks/shaped/aurey_matte": {
-    "criteria": {
-      "has_aluminum": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/crafting_grid/blue_crafting_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/black_pattern_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
     },
     "done": true
   },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_green": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring_recipes/light_gray_detector": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/pattern_grid/red_pattern_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/crafting_grid/black_crafting_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_blue": {
-    "criteria": {
-      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
     },
     "done": true
   },
@@ -18694,12 +17836,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/blue_network_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/pattern_grid/brown_pattern_grid": {
-    "criteria": {
-      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
     },
     "done": true
   },
@@ -18718,12 +17854,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/orange_crafting_grid": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_green_r": {
-    "criteria": {
-      "has_ingots/aluminum": "2024-12-02 18:55:12 +0000"
     },
     "done": true
   },
@@ -18748,12 +17878,6 @@
   "refinedstorage:recipes/misc/coloring_recipes/black_disk_manipulator": {
     "criteria": {
       "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_blue_r": {
-    "criteria": {
-      "has_ingots/aluminum": "2024-12-02 18:55:12 +0000"
     },
     "done": true
   },
@@ -18787,15 +17911,891 @@
     },
     "done": true
   },
+  "refinedstorage:recipes/misc/coloring_recipes/magenta_crafting_grid": {
+    "criteria": {
+      "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
+    },
+    "done": true
+  },
+  "projecte:root": {
+    "criteria": {
+      "philstone_recipe": "2024-12-02 18:44:26 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/pattern_grid/blue_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/fluid_grid/purple_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/crafting_grid/magenta_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/fluid_grid/red_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/pattern_grid/orange_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/fluid_grid/fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/fluid_grid/green_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/crafting_grid/brown_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/crafting_grid/purple_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/pattern_grid/lime_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/fluid_grid/light_gray_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/crafting_grid/pink_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/pattern_grid/gray_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/crafting_grid/crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/pattern_grid/black_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/pattern_grid/light_gray_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/crafting_grid/white_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/crafting_grid/green_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/fluid_grid/blue_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/fluid_grid/orange_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/crafting_grid/orange_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/crafting_grid/gray_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/crafting_grid/yellow_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/fluid_grid/yellow_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/fluid_grid/black_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/fluid_grid/cyan_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/pattern_grid/cyan_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/pattern_grid/pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:viewing_items": {
+    "criteria": {
+      "grid_in_inventory": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/fluid_grid/magenta_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/fluid_grid/lime_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/crafting_grid/light_gray_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/pattern_grid/pink_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/pattern_grid/purple_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/pattern_grid/yellow_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/fluid_grid/brown_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/fluid_grid/pink_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/crafting_grid/cyan_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/crafting_grid/red_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/pattern_grid/magenta_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/fluid_grid/gray_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/pattern_grid/white_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/crafting_grid/lime_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/fluid_grid/white_fluid_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/crafting_grid/blue_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/pattern_grid/red_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/crafting_grid/black_crafting_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/pattern_grid/brown_pattern_grid": {
+    "criteria": {
+      "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/pattern_grid/green_pattern_grid": {
     "criteria": {
       "refinedstorage:grid": "2024-12-02 18:44:44 +0000"
     },
     "done": true
   },
-  "refinedstorage:recipes/misc/coloring_recipes/magenta_crafting_grid": {
+  "refinedstorage:upgrading_your_grid": {
     "criteria": {
-      "refinedstorage:controller": "2024-12-02 18:42:22 +0000"
+      "crafting_grid_in_inventory": "2024-12-02 18:45:00 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:viewing_fluids": {
+    "criteria": {
+      "fluid_grid_in_inventory": "2024-12-02 18:46:14 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:portable_storage": {
+    "criteria": {
+      "portable_grid_in_inventory": "2024-12-02 18:48:01 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2024-12-02 18:48:07 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2024-12-02 18:54:56 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/building_blocks/crafting/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-02 18:54:56 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2024-12-02 18:54:56 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/magic_lamp_empty": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-02 18:54:56 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/silver_dust_from_ingot": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-02 18:54:56 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-02 18:54:56 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2024-12-02 18:54:56 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2024-12-02 18:54:56 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2024-12-02 18:54:56 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_silver_hammering": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-02 18:54:56 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2024-12-02 18:54:56 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/lens_frame": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-02 18:54:56 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2024-12-02 18:54:56 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2024-12-02 18:54:57 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2024-12-02 18:54:57 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_uranium_hammering": {
+    "criteria": {
+      "has_uranium_ingot": "2024-12-02 18:54:57 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/uranium_dust_from_ingot": {
+    "criteria": {
+      "has_uranium_ingot": "2024-12-02 18:54:57 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2024-12-02 18:54:57 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2024-12-02 18:55:11 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2024-12-02 18:55:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2024-12-02 18:55:11 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2024-12-02 18:55:11 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2024-12-02 18:55:11 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/zinc_dust_from_ingot": {
+    "criteria": {
+      "has_zinc_ingot": "2024-12-02 18:55:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2024-12-02 18:55:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2024-12-02 18:55:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2024-12-02 18:55:11 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2024-12-02 18:55:11 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_light": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_blue": {
+    "criteria": {
+      "has_ingots/aluminum": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_green": {
+    "criteria": {
+      "has_ingots/aluminum": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/machine_base": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/unpacking/aluminum_nugget": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_aluminum": {
+    "criteria": {
+      "has_alu_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_tiles": {
+    "criteria": {
+      "has_aluminum": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_dark_r": {
+    "criteria": {
+      "has_ingots/aluminum": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_red": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_immortal_r": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks": {
+    "criteria": {
+      "has_aluminum": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alu_wallmount": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_dark": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_light": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_light": {
+    "criteria": {
+      "has_ingots/aluminum": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_light_r": {
+    "criteria": {
+      "has_ingots/aluminum": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_blue": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_aluminum": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_green": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_blue": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/lamp_rgb": {
+    "criteria": {
+      "has_aluminum": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_green": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_green": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_red": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_dark": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_torch": {
+    "criteria": {
+      "has_aluminum": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alu_scaffolding_standard": {
+    "criteria": {
+      "has_alu_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_red": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/aluminum_dust_from_ingot": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_dark": {
+    "criteria": {
+      "has_ingots/aluminum": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_aluminum_hammering": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/decorations/shaped/lamp_rgb_r": {
+    "criteria": {
+      "has_aluminum": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_light": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_light": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_immortal": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alu_fence": {
+    "criteria": {
+      "has_alu_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_blue": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_redstone": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/extractor": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/machine_base_flipped": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/compacting/aluminum_ingot": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_dark": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_red": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_red": {
+    "criteria": {
+      "has_ingots/aluminum": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_dark": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_red_r": {
+    "criteria": {
+      "has_ingots/aluminum": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aurey_matte": {
+    "criteria": {
+      "has_aluminum": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_green": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_blue": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_green_r": {
+    "criteria": {
+      "has_ingots/aluminum": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_blue_r": {
+    "criteria": {
+      "has_ingots/aluminum": "2024-12-02 18:55:12 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_lead_hammering": {
+    "criteria": {
+      "has_lead_ingot": "2024-12-02 18:55:28 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/capacitor_lv": {
+    "criteria": {
+      "has_lead_ingot": "2024-12-02 18:55:28 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2024-12-02 18:55:28 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_lead": {
+    "criteria": {
+      "has_lead_ingot": "2024-12-02 18:55:28 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2024-12-02 18:55:28 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2024-12-02 18:55:28 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/lead_dust_from_ingot": {
+    "criteria": {
+      "has_lead_ingot": "2024-12-02 18:55:28 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2024-12-02 18:55:28 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2024-12-02 18:55:28 +0000"
     },
     "done": true
   },
