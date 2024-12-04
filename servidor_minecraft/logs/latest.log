@@ -1690,3 +1690,6 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [04Dec2024 17:03:42.529] [Server thread/INFO] [immersiveengineering/]: Finished recipe profiler for Arc Recycling, took 491 milliseconds
 [04Dec2024 17:03:42.529] [Server thread/WARN] [ModernFix/]: Dedicated server took 145.82 seconds to load
 [04Dec2024 17:03:42.703] [Server thread/WARN] [mixin/]: @Final field items:Ljava/util/Map; in creativewirelesstransmitter.mixins.json:MixinNetworkItemManager should be final
+[04Dec2024 17:12:34.402] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatCommandPacket
+[04Dec2024 17:12:34.404] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
+[04Dec2024 17:12:34.406] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
