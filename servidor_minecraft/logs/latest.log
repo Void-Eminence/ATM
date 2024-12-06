@@ -2460,3 +2460,5 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [06Dec2024 17:10:33.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ae2 (reloadconfig|chunklogger|spatial|channelmode|tickmonitor)
 [06Dec2024 17:10:41.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Whitelist is already turned off
 [06Dec2024 17:17:06.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6335ms or 126 ticks behind
+[06Dec2024 17:21:22.596] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VoidNoir1 lost connection: Timed out
+[06Dec2024 17:21:22.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VoidNoir1 left the game
