@@ -2462,3 +2462,34 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [06Dec2024 17:17:06.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6335ms or 126 ticks behind
 [06Dec2024 17:21:22.596] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VoidNoir1 lost connection: Timed out
 [06Dec2024 17:21:22.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VoidNoir1 left the game
+[06Dec2024 17:29:00.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Dec2024 17:29:00.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STOP<--[HERE]
+[06Dec2024 17:29:05.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06Dec2024 17:29:05.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Dec2024 17:29:05.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Dec2024 17:29:05.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Dec2024 17:29:05.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Dec2024 17:29:05.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_other
+[06Dec2024 17:29:05.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Dec2024 17:29:05.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Dec2024 17:29:05.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mythicbotany:alfheim
+[06Dec2024 17:29:05.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:mining
+[06Dec2024 17:29:05.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bloodmagic:dungeon
+[06Dec2024 17:29:05.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_beyond
+[06Dec2024 17:29:05.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[06Dec2024 17:29:06.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Dec2024 17:29:06.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
+[06Dec2024 17:29:06.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Dec2024 17:29:06.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Dec2024 17:29:06.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alfheim): All chunks are saved
+[06Dec2024 17:29:06.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[06Dec2024 17:29:06.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[06Dec2024 17:29:06.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
+[06Dec2024 17:29:06.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[06Dec2024 17:29:06.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Dec2024 17:29:06.208] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
+[06Dec2024 17:29:06.213] [Server thread/INFO] [shetiphian.endertanks.EnderTanks/]: Unloading EnderTank Data
+[06Dec2024 17:29:06.214] [Server thread/INFO] [shetiphian.endertanks.EnderTanks/]: Finished Unloading EnderTank Data
+[06Dec2024 17:29:06.221] [Server thread/INFO] [shetiphian.enderchests.EnderChests/]: Unloading EnderChest Data
+[06Dec2024 17:29:06.222] [Server thread/INFO] [shetiphian.enderchests.EnderChests/]: Finished Unloading EnderChest Data
+[06Dec2024 17:29:06.321] [Server thread/INFO] [FluxNetworks/Energy]: Energy blacklist loaded: 1 block entries, 0 item entries
