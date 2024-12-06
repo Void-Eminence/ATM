@@ -2183,3 +2183,15 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [06Dec2024 16:37:35.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /titanium-rewards-grant <reward>
 [06Dec2024 16:37:35.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ae2 (reloadconfig|chunklogger|spatial|channelmode|tickmonitor)
 [06Dec2024 16:37:49.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Whitelist is already turned off
+[06Dec2024 16:38:24.640] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@52375817[id=<null>,name=VoidNoir1,properties={},legacy=false] (/127.240.132.233:41251) lost connection: Disconnected
+[06Dec2024 16:41:24.090] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@548a6912[id=<null>,name=VoidNoir1,properties={},legacy=false] (/127.240.132.233:49807) lost connection: Disconnected
+[06Dec2024 16:42:20.389] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@19e0f37e[id=<null>,name=VoidNoir1,properties={},legacy=false] (/127.240.132.233:36953) lost connection: Disconnected
+[06Dec2024 16:42:46.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reloaded the whitelist
+[06Dec2024 16:42:53.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Whitelist is now turned on
+[06Dec2024 16:43:05.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added VoidNoir1 to the whitelist
+[06Dec2024 16:43:15.139] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player VoidNoir1 is 6edb587a-53e4-41b3-b489-ab3cb8c06fe4
+[06Dec2024 16:45:13.141] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@22efb0ed[id=6edb587a-53e4-41b3-b489-ab3cb8c06fe4,name=VoidNoir1,properties={textures=[com.mojang.authlib.properties.Property@525e140d]},legacy=false] (/127.240.132.233:56123): Took too long to log in
+[06Dec2024 16:45:13.143] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@22efb0ed[id=6edb587a-53e4-41b3-b489-ab3cb8c06fe4,name=VoidNoir1,properties={textures=[com.mojang.authlib.properties.Property@525e140d]},legacy=false] (/127.240.132.233:56123) lost connection: Took too long to log in
+[06Dec2024 16:45:13.188] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Dec2024 16:47:31.940] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@72fe311b[id=<null>,name=VoidNoir1,properties={},legacy=false] (/127.240.132.233:35063) lost connection: Disconnected
+[06Dec2024 16:48:08.439] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6acdf2ae[id=<null>,name=VoidNoir1,properties={},legacy=false] (/127.240.132.233:58851) lost connection: Disconnected
