@@ -1950,3 +1950,5 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [08Dec2024 04:58:09.041] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VoidNoir1[/127.240.132.233:38919] logged in with entity id 815 at (4093.5, 66.5625, 9.5)
 [08Dec2024 04:58:09.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VoidNoir1 joined the game
 [08Dec2024 04:58:09.746] [Server thread/INFO] [Jade/]: Syncing config to VoidNoir1 (6edb587a-53e4-41b3-b489-ab3cb8c06fe4)
+[08Dec2024 05:07:09.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VoidNoir1 lost connection: Timed out
+[08Dec2024 05:07:09.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VoidNoir1 left the game
