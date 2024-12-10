@@ -6,7 +6,7 @@
   },
   "tunnels": [
     {
-      "active": false,
+      "active": true,
       "alloc": {
         "data": {
           "assigned_domain": "gold-kilometers.gl.joinmc.link",
